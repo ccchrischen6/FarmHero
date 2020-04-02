@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{692D2CEC-1581-D57C-931D-6E206600E9E7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SpawnManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SpawnManager.cs" Line="12" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4af55aa8-aed9-4de8-9a02-29b1c453044c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
